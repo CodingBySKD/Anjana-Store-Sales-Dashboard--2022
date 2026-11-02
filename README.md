@@ -1,6 +1,4 @@
-# Anjana-Store-Sales-Dashboard--2022
-This is an interactive Excel dashboard created by analyzing the 2022 sales data of Anjana Store.
-The main objective of this project is to provide business stakeholders with a clear and comprehensive consolidated overview of sales trends, customer behavior, and regional performance.
+
 
 Project Name: Anjana Store Annual Report 2022 (Excel Dashboard)
 
